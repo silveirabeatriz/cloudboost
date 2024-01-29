@@ -2,9 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    -webkit-font-smoothing: antialised;
+    -webkit-font-smoothing: antialiased;
     font-family: 'Inter', sans-serif;
-    // font-family: 'Space Grotesk', sans-serif;
     color: #ffffff;
 }
 
@@ -29,5 +28,5 @@ ul {
 
 html {
     font-size: 62.5%;
-    background-color: #0a0b0d;
+    background-color: $gray-900;
 }
